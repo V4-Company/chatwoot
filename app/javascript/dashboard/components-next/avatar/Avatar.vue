@@ -61,7 +61,7 @@ const AVATAR_COLORS = {
     ['#3F220D', '#FFA366'],
     ['#2A2A2A', '#ADB1B8'],
     ['#023B37', '#0BD8B6'],
-    ['#27264D', '#A19EFF'],
+    ['#4D2627', '#FF9E9E'],
     ['#1D2E62', '#9EB1FF'],
   ],
   light: [
@@ -69,7 +69,7 @@ const AVATAR_COLORS = {
     ['#FFE0BB', '#99543A'],
     ['#E8E8E8', '#60646C'],
     ['#CCF3EA', '#008573'],
-    ['#EBEBFE', '#4747C2'],
+    ['#FEEBEB', '#C24747'],
     ['#E1E9FF', '#3A5BC7'],
   ],
   default: { bg: '#E8E8E8', text: '#60646C' },
