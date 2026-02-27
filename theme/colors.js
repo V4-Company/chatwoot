@@ -15,18 +15,18 @@ const {
 
 export const colors = {
   woot: {
-    25: blue.blue2,
-    50: blue.blue3,
-    75: blue.blue4,
-    100: blue.blue5,
-    200: blue.blue7,
-    300: blue.blue8,
-    400: blueDark.blue11,
-    500: blueDark.blue10,
-    600: blueDark.blue9,
-    700: blueDark.blue8,
-    800: blueDark.blue6,
-    900: blueDark.blue2,
+    25: red.red2,
+    50: red.red3,
+    75: red.red4,
+    100: red.red5,
+    200: red.red7,
+    300: red.red8,
+    400: redDark.red11,
+    500: redDark.red10,
+    600: redDark.red9,
+    700: redDark.red8,
+    800: redDark.red6,
+    900: redDark.red2,
   },
   green: {
     50: greenDark.green12,
@@ -211,7 +211,7 @@ export const colors = {
     },
 
     black: '#000000',
-    brand: '#2781F6',
+    brand: '#E54666',
     background: 'rgb(var(--background-color) / <alpha-value>)',
     solid: {
       1: 'rgb(var(--solid-1) / <alpha-value>)',
@@ -219,7 +219,7 @@ export const colors = {
       3: 'rgb(var(--solid-3) / <alpha-value>)',
       active: 'rgb(var(--solid-active) / <alpha-value>)',
       amber: 'rgb(var(--solid-amber) / <alpha-value>)',
-      blue: 'rgb(var(--solid-blue) / <alpha-value>)',
+      blue: 'rgb(var(--solid-red) / <alpha-value>)',
       iris: 'rgb(var(--solid-iris) / <alpha-value>)',
     },
     alpha: {
@@ -233,7 +233,7 @@ export const colors = {
     weak: 'rgb(var(--border-weak) / <alpha-value>)',
     container: 'rgba(var(--border-container))',
     strong: 'rgb(var(--border-strong) / <alpha-value>)',
-    'blue-border': 'rgba(var(--border-blue))',
-    'blue-text': 'rgba(var(--text-blue))',
+    'blue-border': 'rgba(var(--border-red))',
+    'blue-text': 'rgba(var(--text-red))',
   },
 };
